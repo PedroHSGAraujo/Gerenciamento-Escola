@@ -1,0 +1,84 @@
+aluno,disciplina,professor,sala de aula,nota
+Pedro Henrique,Matemática,Adam Smith,101,8.5
+Ana Luisa,Português,Carla Dias,102,7.2
+Rafael Pontes,Física,Bruno Carvalho,103,6.8
+Marcos Ferreira,Biologia,Felipe Rocha,104,9.0
+Lucas Lopes,História,Isabela Ribeiro,105,8.3
+Julia Almeida,Geografia,João Monteiro,106,7.6
+Carlos Souza,Inglês,Leticia Barros,107,8.9
+Beatriz Silva,Educação Física,Henrique Mendes,108,9.2
+Mariana Costa,Artes,Gabriela Araujo,109,6.5
+Fernando Oliveira,Informática,Davi Torres,110,7.8
+João Vitor,Matemática,Adam Smith,111,8.0
+Amanda Oliveira,Português,Carla Dias,112,7.4
+Gustavo Martins,Física,Bruno Carvalho,113,6.9
+Isabela Ramos,Biologia,Felipe Rocha,114,9.1
+Felipe Mendes,História,Isabela Ribeiro,115,8.5
+Carolina Castro,Geografia,João Monteiro,116,7.9
+Daniel Barbosa,Inglês,Leticia Barros,117,8.7
+Bianca Santos,Educação Física,Henrique Mendes,118,9.3
+Eduardo Pereira,Artes,Gabriela Araujo,119,6.7
+Camila Lima,Informática,Davi Torres,120,7.5
+Rodrigo Alves,Matemática,Adam Smith,121,8.2
+Natália Costa,Português,Carla Dias,122,7.0
+Vinícius Oliveira,Física,Bruno Carvalho,123,6.5
+Laura Rodrigues,Biologia,Felipe Rocha,124,9.0
+Guilherme Fernandes,História,Isabela Ribeiro,125,8.4
+Renata Souza,Geografia,João Monteiro,126,7.8
+Bruno Cardoso,Inglês,Leticia Barros,127,8.8
+Ana Clara Silva,Educação Física,Henrique Mendes,128,9.1
+Paulo Santos,Artes,Gabriela Araujo,129,6.6
+Luiza Almeida,Informática,Davi Torres,130,7.9
+Diego Gomes,Matemática,Adam Smith,101,7.8
+Mariana Lima,Português,Carla Dias,102,7.3
+Lucas Costa,Física,Bruno Carvalho,103,6.7
+Juliana Oliveira,Biologia,Felipe Rocha,104,9.2
+Thiago Silva,História,Isabela Ribeiro,105,8.6
+Isadora Martins,Geografia,João Monteiro,106,7.7
+Gabriel Fernandes,Inglês,Leticia Barros,107,8.6
+Beatriz Castro,Educação Física,Henrique Mendes,108,9.4
+Pedro Oliveira,Artes,Gabriela Araujo,109,6.8
+Carolina Santos,Informática,Davi Torres,110,7.4
+Felipe Costa,Matemática,Adam Smith,111,8.3
+Aline Mendes,Português,Carla Dias,112,7.1
+Matheus Rodrigues,Física,Bruno Carvalho,113,6.8
+Gabriela Alves,Biologia,Felipe Rocha,114,9.1
+Rafaela Lima,História,Isabela Ribeiro,115,8.5
+Leonardo Souza,Geografia,João Monteiro,116,7.9
+Vanessa Pereira,Inglês,Leticia Barros,117,8.9
+Thiago Cardoso,Educação Física,Henrique Mendes,118,9.0
+Julia Fernandes,Artes,Gabriela Araujo,119,6.9
+Lucas Martins,Informática,Davi Torres,120,7.6
+Camila Costa,Matemática,Adam Smith,121,8.1
+Daniel Almeida,Português,Carla Dias,122,7.2
+Fernanda Oliveira,Física,Bruno Carvalho,123,6.6
+Rodrigo Barbosa,Biologia,Felipe Rocha,124,9.2
+Manuela Silva,História,Isabela Ribeiro,125,8.3
+João Pedro Santos,Geografia,João Monteiro,126,7.7
+Amanda Costa,Inglês,Leticia Barros,127,8.5
+Gustavo Almeida,Educação Física,Henrique Mendes,128,9.3
+Isabela Fernandes,Artes,Gabriela Araujo,129,6.7
+Ricardo Lima,Informática,Davi Torres,130,7.8
+Patricia Alves,Matemática,Adam Smith,101,7.9
+Luisa Martins,Português,Carla Dias,102,7.0
+Thiago Oliveira,Física,Bruno Carvalho,103,6.7
+Carla Rodrigues,Biologia,Felipe Rocha,104,9.0
+Felipe Pereira,História,Isabela Ribeiro,105,8.4
+Mariana Fernandes,Geografia,João Monteiro,106,7.8
+Lucas Almeida,Inglês,Leticia Barros,107,8.7
+Joana Santos,Educação Física,Henrique Mendes,108,9.2
+Pedro Nunes,Artes,Gabriela Araujo,109,6.6
+Laura Costa,Informática,Davi Torres,110,7.9
+Gabriel Oliveira,Matemática,Adam Smith,111,7.7
+Ana Carolina Silva,Português,Carla Dias,112,7.3
+Rodrigo Santos,Física,Bruno Carvalho,113,6.5
+Vitória Souza,Biologia,Felipe Rocha,114,9.1
+Bruno Lima,História,Isabela Ribeiro,115,8.6
+Jéssica Alves,Geografia,João Monteiro,116,7.7
+Pedro Henrique,Educação Física,Henrique Mendes,117,9.0
+Tatiane Santos,Artes,Gabriela Araujo,118,6.8
+Matheus Oliveira,Informática,Davi Torres,119,7.4
+Carolina Fernandes,Matemática,Adam Smith,120,8.2
+Lucas Souza,Português,Carla Dias,121,7.1
+Mariana Pereira,Física,Bruno Carvalho,122,6.9
+Felipe Rodrigues,Biologia,Felipe Rocha,123,9.2
